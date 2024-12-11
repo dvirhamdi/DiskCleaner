@@ -1,16 +1,7 @@
 {
-  "start_path": "C:\\",
+  "start_path": "",
   "min_inactive_time_in_seconds": 31536000,
-  "dirctories_to_exclude": [
-    "C:/Windows",
-    "C:/Intel",
-    "C:/Tasm",
-    "C:/$WINDOWS.~BT",
-    "C:/$Windows.~WS",
-    "C:/$WinREAgent",
-    "C:/mingw64",
-    "C:/WCH.CN"
-  ],
+  "dirctories_to_exclude": [],
   "min_file_size": 50000000,
   "print_every_iteration": 1000,
   "output_file_path": "output.txt"
